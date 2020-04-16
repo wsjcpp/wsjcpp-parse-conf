@@ -1,22 +1,3 @@
-# wsjcpp-parse-conf
-Primitive parser for *.conf files
-
-## How to integrate
-
-```
-$ wsjcpp install "https://github.com/wsjcpp/wsjcpp-parse-conf:master"
-```
-
-or include files to your project:
-
-* src.wsjcpp/wsjcpp_core/wsjcpp_core.h
-* src.wsjcpp/wsjcpp_core/wsjcpp_core.cpp
-* src/wsjcpp_parse_conf.h
-* src/wsjcpp_parse_conf.cpp
-
-## Example usage
-
-```
 #include <string>
 #include <iostream>
 #include <wsjcpp_core.h>
@@ -60,4 +41,4 @@ int main(int argc, const char* argv[]) {
 
     return 0;
 }
-```
+

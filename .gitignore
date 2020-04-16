@@ -1,3 +1,8 @@
+.wsjcpp/*
+tmp/*
+.logs/*
+wsjcpp-parse-conf
+
 # Prerequisites
 *.d
 
