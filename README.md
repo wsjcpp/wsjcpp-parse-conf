@@ -1,4 +1,8 @@
 # wsjcpp-parse-conf
+
+
+[![Build Status](https://api.travis-ci.org/wsjcpp/wsjcpp-parse-conf.svg?branch=master)](https://travis-ci.org/wsjcpp/wsjcpp-parse-conf) [![Github Stars](https://img.shields.io/github/stars/wsjcpp/wsjcpp-parse-conf.svg?label=github%20%E2%98%85)](https://github.com/wsjcpp/wsjcpp-parse-conf) [![Github Stars](https://img.shields.io/github/contributors/wsjcpp/wsjcpp-parse-conf.svg)](https://github.com/wsjcpp/wsjcpp-parse-conf) [![Github Forks](https://img.shields.io/github/forks/wsjcpp/wsjcpp-parse-conf.svg?label=github%20forks)](https://github.com/wsjcpp/wsjcpp-parse-conf/network/members)
+
 Primitive parser for *.conf files
 
 ## How to integrate
